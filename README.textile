@@ -1,1 +1,0 @@
-Dieser Scraper lädt Information über alle von den Berliner Bäderbetrieben betriebenen und verpachteten Bäder.

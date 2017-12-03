@@ -1,0 +1,1 @@
+This scraper loads information from all public pools in Berlin, Germany, operated and leased by Berliner Bäderbetriebe. Nota bene: obsolete, as both data source has changed significantly, and scraper platform has gone offline since.
